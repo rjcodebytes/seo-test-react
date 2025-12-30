@@ -7,8 +7,8 @@ export default function UserPolicy() {
         title="User Policy - My React App"
         description="Understand user responsibilities, account security, and acceptable use policies for our platform."
         keywords="User Policy, User Guidelines, Account Policy, User Responsibilities"
-        canonical="https://yourwebsite.com/user-policy"
-        url="https://yourwebsite.com/user-policy"
+        canonical="https://seo-testrj.netlify.app/user-policy"
+        url="https://seo-testrj.netlify.app/user-policy"
       />
       <div className="p-10 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold mb-6 text-center">

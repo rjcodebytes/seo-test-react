@@ -7,9 +7,9 @@ export default function Home() {
         title="Home - My React App"
         description="Welcome to My React App built with React 19, Vite, and Tailwind CSS. Modern UI design with clean project structure."
         keywords="React, Vite, Tailwind CSS, Web Development, Modern UI"
-        canonical="https://yourwebsite.com/"
-        url="https://yourwebsite.com/"
-        image="https://yourwebsite.com/og-image.jpg"
+        canonical="https://seo-testrj.netlify.app/"
+        url="https://seo-testrj.netlify.app/"
+        image="https://seo-testrj.netlify.app/og-image.jpg"
       />
       <div className="p-10 bg-gray-100 min-h-screen">
 

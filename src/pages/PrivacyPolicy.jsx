@@ -7,8 +7,8 @@ export default function PrivacyPolicy() {
         title="Privacy Policy - My React App"
         description="Learn how we collect, use, and protect your personal information. Our commitment to data security and privacy."
         keywords="Privacy Policy, Data Protection, User Privacy, GDPR, Data Security"
-        canonical="https://yourwebsite.com/privacy-policy"
-        url="https://yourwebsite.com/privacy-policy"
+        canonical="https://seo-testrj.netlify.app/privacy-policy"
+        url="https://seo-testrj.netlify.app/privacy-policy"
       />
       <div className="p-10 bg-gray-100 min-h-screen">
         <h1 className="text-3xl font-bold mb-6 text-center">

@@ -7,8 +7,8 @@ export default function TermsConditions() {
         title="Terms & Conditions - My React App"
         description="Read our terms and conditions. Understand the rules and guidelines for using our website and services."
         keywords="Terms and Conditions, Terms of Service, Usage Policy, Legal Terms"
-        canonical="https://yourwebsite.com/terms-conditions"
-        url="https://yourwebsite.com/terms-conditions"
+        canonical="https://seo-testrj.netlify.app/terms-conditions"
+        url="https://seo-testrj.netlify.app/terms-conditions"
       />
       <div className="p-10 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold mb-6 text-center">

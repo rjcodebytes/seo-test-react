@@ -34,9 +34,9 @@ export default function Blogs() {
         title="Blogs - My React App"
         description="Read our latest blogs about React, Vite, Tailwind CSS, and modern web development best practices."
         keywords="React Blogs, Vite Tutorial, Tailwind CSS Guide, Web Development Blogs"
-        canonical="https://yourwebsite.com/blogs"
-        url="https://yourwebsite.com/blogs"
-        image="https://yourwebsite.com/og-image.jpg"
+        canonical="https://seo-testrj.netlify.app/blogs"
+        url="https://seo-testrj.netlify.app/blogs"
+        image="https://seo-testrj.netlify.app/og-image.jpg"
       />
       <div className="p-10 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold mb-8 text-center">Blogs</h1>

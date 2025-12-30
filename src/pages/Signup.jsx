@@ -7,8 +7,8 @@ export default function Signup() {
         title="Sign Up - My React App"
         description="Create a new account to get started. Join our community and access all features."
         keywords="Sign Up, Create Account, Register, New User"
-        canonical="https://yourwebsite.com/signup"
-        url="https://yourwebsite.com/signup"
+        canonical="https://seo-testrj.netlify.app/signup"
+        url="https://seo-testrj.netlify.app/signup"
       />
       <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <form className="bg-white p-8 shadow-lg rounded w-full max-w-sm">

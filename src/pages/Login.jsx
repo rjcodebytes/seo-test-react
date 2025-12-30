@@ -7,8 +7,8 @@ export default function Login() {
         title="Login - My React App"
         description="Login to your account to access exclusive features and personalized content."
         keywords="Login, Sign In, User Login, Account Access"
-        canonical="https://yourwebsite.com/login"
-        url="https://yourwebsite.com/login"
+        canonical="https://seo-testrj.netlify.app/login"
+        url="https://seo-testrj.netlify.app/login"
       />
       <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <form className="bg-white p-8 shadow-lg rounded w-full max-w-sm">

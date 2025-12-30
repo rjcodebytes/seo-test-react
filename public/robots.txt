@@ -6,7 +6,7 @@ Allow: /
 # Disallow: /admin/
 
 # Sitemap location (update with your actual sitemap URL)
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://seo-testrj.netlify.app/sitemap.xml
 
 # Crawl-delay (optional, helps with rate limiting)
 # Crawl-delay: 10

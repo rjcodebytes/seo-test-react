@@ -7,9 +7,9 @@ export default function Contact() {
         title="Contact Us - My React App"
         description="Get in touch with us. Email: support@example.com, Phone: +91 98765 43210. Working Hours: Mon – Fri, 9:00 AM – 6:00 PM."
         keywords="Contact Us, Get in Touch, Customer Support, Contact Form"
-        canonical="https://yourwebsite.com/contact"
-        url="https://yourwebsite.com/contact"
-        image="https://yourwebsite.com/og-image.jpg"
+        canonical="https://seo-testrj.netlify.app/contact"
+        url="https://seo-testrj.netlify.app/contact"
+        image="https://seo-testrj.netlify.app/og-image.jpg"
       />
       <div className="p-10 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold mb-6 text-center">Contact Us</h1>

@@ -46,9 +46,9 @@ export default function Services() {
         title="Our Services - My React App"
         description="Explore our services including Web Development, UI/UX Design, API Integration, Authentication Systems, Performance Optimization, and Deployment."
         keywords="Web Development, UI Design, UX Design, API Integration, React Services, Authentication"
-        canonical="https://yourwebsite.com/services"
-        url="https://yourwebsite.com/services"
-        image="https://yourwebsite.com/og-image.jpg"
+        canonical="https://seo-testrj.netlify.app/services"
+        url="https://seo-testrj.netlify.app/services"
+        image="https://seo-testrj.netlify.app/og-image.jpg"
       />
       <div className="p-10 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold mb-8 text-center">
