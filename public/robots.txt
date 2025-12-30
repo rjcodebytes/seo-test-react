@@ -1,0 +1,12 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+
+# Sitemap location (update with your actual sitemap URL)
+Sitemap: https://yourwebsite.com/sitemap.xml
+
+# Crawl-delay (optional, helps with rate limiting)
+# Crawl-delay: 10
